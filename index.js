@@ -1,4 +1,4 @@
 // Loop through all numbers from 1 to 100.
-for (let i = 0; i < 100; i++) {
-	console.log(i);
+for (let number = 1; number <= 100; number = number + 1) {
+  console.log(number);
 }
